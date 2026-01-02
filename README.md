@@ -1,0 +1,2 @@
+# Hospital_Managemt_System
+Hospital Management System in C using data structures. It manages normal and emergency patients with queues and priority queues, stores patient records using linked lists, assigns doctors via a binary search tree based on specialization, and supports appointment booking, patient servicing, and record display in a menu-driven system.
